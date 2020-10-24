@@ -1,0 +1,33 @@
+body {
+    line-height: 24px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    visibility: visible;
+    font-family: "Rubik", sans-serif;
+    color: #222222;
+}
+
+div {
+    display: block;
+}
+
+html {
+    background: #f9f9f9;
+}
+
+.top-bar {
+    height: 10rem;
+    padding: 0.5rem;
+}
+
+.top-bar.li {
+    display: inline;
+}
+
+ol,
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
